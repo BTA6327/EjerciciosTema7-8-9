@@ -44,7 +44,7 @@ public class EjercicioLibre {
             }
             out.close();
         } catch (Exception e) {
-            System.out.println("Excepcion: " + e.getMessage());
+            System.out.println("Excepción: " + e.getMessage());
         }finally {
             System.out.println("Finalizado");
         }
